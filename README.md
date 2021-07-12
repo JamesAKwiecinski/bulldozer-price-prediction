@@ -6,7 +6,7 @@
 
 ## An end-to-end data analysis and machine learning workflow to predict bulldozer sales prices.
 
-This is a repository to store a exploratory data analysis and machine learning workflow for Kaggle's ["Blue book for bulldozers" challenge](https://www.kaggle.com/c/bluebook-for-bulldozers/), which aims to accurately predict a bulldozer's auction price given its features and sale date. A Jupyter notebook detailing the problem to be solved, exploratory data analysis, and supervised training is uploaded, along with the best trained model developed.
+This is a repository to store a exploratory data analysis and machine learning workflow for Kaggle's ["Blue book for bulldozers" challenge](https://www.kaggle.com/c/bluebook-for-bulldozers/), which aims to accurately predict a bulldozer's auction price given its features and sale date. A Jupyter notebook detailing the problem to be solved, exploratory data analysis, and supervised training is uploaded. This time, the final trained model is not provided because it exceeds Github's upload limit.
 
 ### Summary
 
