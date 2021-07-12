@@ -31,4 +31,4 @@ For completeness, I provide the feature importance of the model below:
 <img src="https://user-images.githubusercontent.com/86231828/125294167-66288400-e367-11eb-9809-f8b0388a5d57.jpg" height=450, width=auto>
 </p>
 
-There is much more that could be done to squeeze more performance out of the data provided, namely, by using a different regression model, such as CatBoost, or devising alternative methods to preprocess the data for machine learning. As such, this is still a continuing work.
+There is much more that could be done to squeeze more performance out of the data provided, namely, by using a different regression model, such as CatBoost, or devising alternative methods to preprocess the data for machine learning. As such, this is a continuing work.
